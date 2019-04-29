@@ -41,11 +41,8 @@ ggplot() +
 library(ggplot)
 ggplot() +
   geom_point(aes(x = test_set$YearsExperience, y = test_set$Salary),
-<<<<<<< HEAD
-             colour = 'blue') +
-=======
-             colour = 'green') +
->>>>>>> 7cdaf45ec45a46eb2c99869d1fe5b690258da510
+             colour = 'red') +
+
   geom_line(aes(x = training_set$YearsExperience, y = predict(regressor, newdata = training_set)),
             colour = 'blue') +
   ggtitle('Salary vs Experience (Test set)') +
