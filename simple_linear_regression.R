@@ -55,3 +55,5 @@ ggplot() +
   ylab('Salary')
 
   print(hoi)
+  print(hihi)
+  print('Lekker branchen maken')
