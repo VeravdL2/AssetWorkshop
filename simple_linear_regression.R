@@ -52,3 +52,5 @@ ggplot() +
   ylab('Salary')
 
   print(hoi)
+  
+  print(Dirk)
