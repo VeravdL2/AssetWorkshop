@@ -3,6 +3,10 @@ install.packages("caTools")
 install.packages("ggplot2")
 install.packages("ggplot")
 
+
+print('ik vraag me af of dit werkt')
+
+
 # Importing the dataset
 dataset = read.csv('Salary_Data.csv')
 
