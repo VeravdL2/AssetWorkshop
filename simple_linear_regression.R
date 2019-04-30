@@ -39,6 +39,7 @@ ggplot() +
 
 print(hallow)
 
+print(haha mij lukt het wel)
 # Visualising the Test set results
 library(ggplot)
 ggplot() +
