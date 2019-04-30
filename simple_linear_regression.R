@@ -50,3 +50,4 @@ ggplot() +
   ylab('Salary')
 
   print(hoi)
+  print(hihi)
