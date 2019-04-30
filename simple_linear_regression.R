@@ -6,6 +6,8 @@ install.packages("ggplot")
 # Importing the dataset
 dataset = read.csv('Salary_Data.csv')
 
+print("hee alles goed ja met mij wel met nienke ook groetjes bob")
+
 # Splitting the dataset into the Training set and Test set
 # install.packages('caTools')
 library(caTools)
