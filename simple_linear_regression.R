@@ -37,6 +37,8 @@ ggplot() +
   xlab('Years of experience') +
   ylab('Salary')
 
+print(hallow)
+
 # Visualising the Test set results
 library(ggplot)
 ggplot() +
