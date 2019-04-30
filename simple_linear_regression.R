@@ -23,6 +23,7 @@ print("Test print statement")
 regressor = lm(formula = Salary ~ YearsExperience,
                data = training_set)
 
+#NINA HERE
 # Predicting the Test set results
 y_pred = predict(regressor, newdata = test_set)
 
